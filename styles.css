@@ -17,5 +17,7 @@ p{
     background: skyblue;
     border: 5px solid black;
     border-radius: 50px;
+    margin: 10%;
+    padding: 15px;
 }
 
