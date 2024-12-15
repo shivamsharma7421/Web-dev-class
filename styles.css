@@ -1,0 +1,11 @@
+p{
+    font-style: italic;
+    font-weight: 900;
+}
+
+.one{
+    background: #b61f1f83;
+}
+#prime{
+    text-decoration: line-through;
+}
