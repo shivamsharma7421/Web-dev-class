@@ -29,3 +29,6 @@ p{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+table, th, td {
+    border: 2px solid;
+}
