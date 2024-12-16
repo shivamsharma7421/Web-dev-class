@@ -32,3 +32,16 @@ p{
 table, th, td {
     border: 2px solid;
 }
+.purple{
+    text-align: center;
+    background: #635ce8bc;
+    margin: 5px;
+    padding-top: 45px;
+    border: 2px solid black;
+    min-width: 100px;
+    min-height: 55px;
+}
+.flex-prop{
+    display: flex;
+    flex-direction: row;
+}
