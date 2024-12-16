@@ -50,3 +50,19 @@ table, th, td {
     top: 0;
     
 }
+.grid-container{
+    display: grid;
+    gap: 10px;
+    row-gap: 10px;
+    
+}
+.grid-item{
+    
+    
+    background: #ebb48aad;
+    min-height: 100px;
+    min-width: 100px;
+    max-width: 100px;
+    border: 2px solid black;
+    margin: 5px;
+}
