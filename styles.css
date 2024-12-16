@@ -45,3 +45,8 @@ table, th, td {
     display: flex;
     flex-direction: row;
 }
+.position{
+    position: sticky;
+    top: 0;
+    
+}
